@@ -18,7 +18,7 @@
             {{-- header section --}}
             <div>
                 {{-- about bar --}}
-                <div class="about-bar flex justify-between bg-red-50 text-sm text-[#131749]">
+                <div class="about-bar flex justify-between bg-red-50 text-[12px] flex-wrap md:flex-nowrap text-[#131749]">
                     <div class="about-bar-menu px-10 py-4">
                         <ul class="flex justify-between space-x-5">
                             <li class="font-[670] text-red-500">PERSONAL</li>
@@ -67,9 +67,21 @@
             {{-- content section --}}
             <div class="xl:px-[100px]">
                 {{-- splash --}}
-                <div class="bg-[linear-gradient(to_right,#a50016_0%,#a50016_80%,#e0326c_90%)] bg-[#e0326c] py-14 md:px-28 px-14 flex justify-start text-blue-50 md:rounded-bl-[100px] rounded-bl-[50px]">
-                    <h1 class="md:text-[70px] text-[40px] font-[650]">Katalog Paket Indihome</h1>
+                <div class="bg-[linear-gradient(to_right,#a50016_0%,#a50016_80%,#e0326c_90%)] bg-[#e0326c] py-10 md:px-28 px-6 flex lg:flex-row flex-col md:space-x-5  -space-y-4 text-blue-50 md:rounded-bl-[100px] rounded-bl-[50px] md:text-[70px] text-[30px]">
+                    <h1 class="font-bold">Katalog Paket</h1>
+                    <h1 class="font-bold"> Indihome</h1>
                 </div>
+
+                {{-- nama konten --}}
+                <div class="flex justify-center py-14 items-center space-y-10 flex-col">
+                    <div class="bg-[#a50016] w-[120px] h-1"></div>
+                    <h1 class="md:text-[60px] text-[#10164d] text-[30px] font-[650]">
+                        Piihan Paket Indihome
+                    </h1>
+                </div>
+
+                {{-- isi konten --}}
+
             </div>
 
         </div>
