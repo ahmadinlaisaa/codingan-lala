@@ -81,7 +81,13 @@
                 </div>
 
                 {{-- isi konten --}}
-
+                <div class="bg-red-500 flex">
+                    <div class="item-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempora distinctio placeat? Vel doloribus odit modi quis, sit voluptatibus dolor! Doloremque eligendi, molestias sint suscipit illo adipisci molestiae, officiis a vel reiciendis voluptates omnis!</div>
+                    <div class="item-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempora distinctio placeat? Vel doloribus odit modi quis, sit voluptatibus dolor! Doloremque eligendi, molestias sint suscipit illo adipisci molestiae, officiis a vel reiciendis voluptates omnis!</div>
+                    <div class="item-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempora distinctio placeat? Vel doloribus odit modi quis, sit voluptatibus dolor! Doloremque eligendi, molestias sint suscipit illo adipisci molestiae, officiis a vel reiciendis voluptates omnis!</div>
+                    <div class="item-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempora distinctio placeat? Vel doloribus odit modi quis, sit voluptatibus dolor! Doloremque eligendi, molestias sint suscipit illo adipisci molestiae, officiis a vel reiciendis voluptates omnis!</div>
+                    <div class="item-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque tempora distinctio placeat? Vel doloribus odit modi quis, sit voluptatibus dolor! Doloremque eligendi, molestias sint suscipit illo adipisci molestiae, officiis a vel reiciendis voluptates omnis!</div>
+                </div>
             </div>
 
         </div>
